@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hey there, I'm Deep Shah </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+folks..&hearts;++;Self-directed+Back-End+Developer,;Computer+Science+Engineer,;CTF+Newbie,;Active+Developer/Freelancer,;Love+to+learn+new+stuffs..<3;Developer+with+a+Pythonic+twist."></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+folks..&hearts;++;Self-directed+Back-End+Developer,;Computer+Science+Engineer,;CTF+Newbie,;Active+Developer,;Love+to+learn+new+stuffs..<3;Developer+with+a+Pythonic+twist."></a>
 </p>
 <br>
 
@@ -15,7 +15,7 @@
 - A passionate Self-directed Back-end developer
 - Currently designing, developing, and implementing Python-based applications using frameworks such as Django, Flask, and Fast API.
 - I am open to collaborating on interesting projects. 
-- I’m currently a proud employee and a proud freelancer, this is [my resume](https://read.cv/shahdeep1908)
+- I’m currently a proud employee, this is [my resume](https://read.cv/shahdeep1908)
 
 <br><br>
 
